@@ -11,3 +11,9 @@
 - Balatro
 - Slay the Spire
 - Vampire Survivors
+
+- title: Balatro
+  status: Tsumi
+
+- title: Elden Ring
+  status: Clear
